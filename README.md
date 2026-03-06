@@ -1,5 +1,7 @@
 # This project analyzes Adani Enterprises stock data using Microsoft Excel and Microsoft Power BI
 
+<img width="507" height="377" alt="Image" src="https://github.com/user-attachments/assets/87482fb2-0ea1-4581-8cc7-c5d3acae45e7" />
+
 # Key KPIs
 
 Average Close Price: 2.68K
